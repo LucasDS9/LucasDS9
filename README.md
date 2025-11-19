@@ -41,6 +41,6 @@ AWS
 
 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/lucas-vinicius-a4054b2a9)
 
-E-mail: [email](lucasvinids@gmail.com)
+E-mail: [lucasvinids@gmail.com](lucasvinids@gmail.com)
 
 
