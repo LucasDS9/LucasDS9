@@ -5,13 +5,13 @@ Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, 
 Atualmente desenvolvo projetos práticos em machine learning e  análise de dados utilizando ferramentas SQL, Python e Power BI  sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis.
 Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva. 
 
-##🎓 Formação 
+🎓 Formação 
 
 Física (Bacharelado) - UFPE (em andamento)
 
-##🎯 habilidades Técnicas : 
+🎯 habilidades Técnicas : 
 
-##🧠 Machine Learning
+🧠 Machine Learning
 
 - Aplicação de algoritmos de aprendizado de máquina para classificação, predição, clusterização e otimização de problemas quantitativos;
 
@@ -19,7 +19,7 @@ Física (Bacharelado) - UFPE (em andamento)
 
 - Pré-processamento, seleção de features, tuning de hiperparâmetros, avaliação de modelos e métricas estatísticas.
 
-##📊 Data Analysis & Business Intelligence
+📊 Data Analysis & Business Intelligence
 
 - Construção de dashboards interativos e análises orientadas a negócios;
 
@@ -27,14 +27,14 @@ Física (Bacharelado) - UFPE (em andamento)
 
 - Excel para análises e visualizações.
 
-##🖥️ Programação & Ferramentas Computacionais
+🖥️ Programação & Ferramentas Computacionais
 
 Python (NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Plotly);
 
 SQL para consultas, transformação e análise de dados;
 
 
-##☁️ Cloud :
+☁️ Cloud :
 AWS
 
 📫 Contato
