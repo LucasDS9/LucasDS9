@@ -28,6 +28,11 @@
 
 <p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e análise de dados utilizando ferramentas SQL, Python e Power BI sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>🎓 Formação<br><br>Física (Bacharelado) - UFPE (em andamento)<br><br>🎯 habilidades Técnicas :<br><br>🧠 Machine Learning<br><br>Aplicação de algoritmos de aprendizado de máquina para classificação, predição, clusterização e otimização de problemas quantitativos;<br><br>Modelos supervisionados e não supervisionados;<br><br>Pré-processamento, seleção de features, tuning de hiperparâmetros, avaliação de modelos e métricas estatísticas.<br><br>📊 Data Analysis & Business Intelligence<br><br>Construção de dashboards interativos e análises orientadas a negócios;<br><br>Power BI ;<br><br>Excel para análises e visualizações.<br><br>🖥️ Programação & Ferramentas Computacionais<br><br>Python (NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Plotly);<br><br>SQL para consultas, transformação e análise de dados;</p>
 
+## 🗺️ Meu Roadmap Pessoal
+
+➡️ **[Clique aqui para ver meu Roadmap pessoal de Data Science](https://github.com/LucasDS9/Roadmap-projetos)**  
+
+
 ###
 
 <h2 align="left">🔥   Meu status :</h2>
