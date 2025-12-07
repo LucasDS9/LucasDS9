@@ -59,7 +59,7 @@ SQL for querying, transforming, and analyzing data;
 
 ## 🗺️ My Personal Roadmap
 
-➡️ **[Click here to view my Data Science Personal Roadmap](https://github.com/LucasDS9/Roadmap-projetos)**  
+➡️ **[Click here to view my Data Science Personal Roadmap](https://github.com/LucasDS9/Roadmap-projetos/blob/main/README_en.md)**  
 
 ###
 
