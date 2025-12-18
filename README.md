@@ -27,7 +27,7 @@
 ###
 
 > 📄 This README is also available in:
-> **[English](README.md)**
+> **[English](README_en.md)**
 
 <p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e ciência de dados, abrangendo desde análise exploratória de dados e modelagem estatística até avaliação e deploy de modelos.  sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
 
