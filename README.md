@@ -18,52 +18,43 @@
 
 ###
 
-> 📄 This README is also available in:
-> **[Português (Brasil)](README_pt-br.md)**
-
-
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 ###
 
-<h3 align="left">🔍 About Me</h3>
+<h3 align="left">🔍 Sobre mim</h3>
 
 ###
 
-<p align="left">
-I am a Physics student at UFPE, driven by the curiosity to understand patterns, solve complex problems, and explore deep ideas. I currently develop practical machine learning and data analysis projects using SQL, Python, and Power BI, always aiming to transform data into clear insights and applicable solutions. I learn new concepts easily, connect theory with implementation, and structure solutions objectively.
-<br><br>
+<p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e análise de dados utilizando ferramentas SQL, Python e Power BI sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
 
-🎓 <strong>Education</strong><br><br>
-B.Sc. in Physics – UFPE (ongoing)
-<br><br>
+🎓 Formação<br><br>
+Física (Bacharelado) - UFPE (em andamento)<br><br>
 
-🎯 <strong>Technical Skills:</strong><br><br>
+🎯 habilidades Técnicas :<br><br>
 
-🧠 <strong>Machine Learning</strong><br><br>
-Application of machine learning algorithms for classification, prediction, clustering, and optimization of quantitative problems;<br><br>
-Supervised and unsupervised models;<br><br>
-Data preprocessing, feature selection, hyperparameter tuning, model evaluation, and statistical metrics.
-<br><br>
+🧠 Machine Learning<br><br>
+Aplicação de algoritmos de aprendizado de máquina para classificação, predição, clusterização e otimização de problemas quantitativos;<br><br>
+Modelos supervisionados e não supervisionados;<br><br>
+Pré-processamento, seleção de features, tuning de hiperparâmetros, avaliação de modelos e métricas estatísticas.<br><br>
 
-📊 <strong>Data Analysis & Business Intelligence</strong><br><br>
-Development of interactive dashboards and business-oriented analyses;<br><br>
-Power BI;<br><br>
-Excel for analysis and visualization.
-<br><br>
+📊 Data Analysis & Business Intelligence<br><br>
+Construção de dashboards interativos e análises orientadas a negócios;<br><br>
+Power BI ;<br><br>
+Excel para análises e visualizações.<br><br>
 
-🖥️ <strong>Programming & Computational Tools</strong><br><br>
+🖥️ Programação & Ferramentas Computacionais<br><br>
 Python (NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Plotly);<br><br>
-SQL for querying, transforming, and analyzing data;
+SQL para consultas, transformação e análise de dados;
 </p>
 
-## 🗺️ My Personal Roadmap
+## 🗺️ Meu Roadmap Pessoal
 
-➡️ **[Click here to view my Data Science Personal Roadmap](https://github.com/LucasDS9/Roadmap-projetos/blob/main/README_en.md)**  
+➡️ **[Clique aqui para ver meu Roadmap pessoal de Data Science](https://github.com/LucasDS9/Roadmap-projetos)**  
 
 ###
 
-<h2 align="left">🔥   My Stats:</h2>
+<h2 align="left">🔥   Meu status :</h2>
 
 ###
 
