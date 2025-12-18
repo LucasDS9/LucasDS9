@@ -29,26 +29,22 @@
 > 📄 This README is also available in:
 > **[Português (Brasil)](README.md)**
 
-<p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e análise de dados utilizando ferramentas SQL, Python e Power BI sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
+<p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e ciência de dados, abrangendo desde análise exploratória de dados e modelagem estatística até avaliação e deploy de modelos.  sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
 
 🎓 Formação<br><br>
 Física (Bacharelado) - UFPE (em andamento)<br><br>
 
-🎯 habilidades Técnicas :<br><br>
+🎯 habilidades  :<br><br>
 
-🧠 Machine Learning<br><br>
-Aplicação de algoritmos de aprendizado de máquina para classificação, predição, clusterização e otimização de problemas quantitativos;<br><br>
-Modelos supervisionados e não supervisionados;<br><br>
-Pré-processamento, seleção de features, tuning de hiperparâmetros, avaliação de modelos e métricas estatísticas.<br><br>
+🧠 Machine Learning : Aplicação de algoritmos de aprendizado de máquina para classificação, regressão, clusterização e otimização; • Modelos supervisionados e não supervisionados; • limpeza e pré-processamento de dados, engenharia e seleção de features; • Tuning de hiperparâmetros, validação cruzada e avaliação de modelos; • Métricas estatísticas e interpretação de resultados.
 
-📊 Data Analysis & Business Intelligence<br><br>
-Construção de dashboards interativos e análises orientadas a negócios;<br><br>
-Power BI ;<br><br>
-Excel para análises e visualizações.<br><br>
+🗣️ NLP & LLMs : Processamento de linguagem natural (tokenização, embeddings, vetorização); • Uso de modelos de linguagem (LLMs) para análise de texto, classificação, sumarização e geração de conteúdo; • Integração de LLMs em aplicações práticas; • Conceitos de prompt engineering e avaliação de respostas.
 
-🖥️ Programação & Ferramentas Computacionais<br><br>
-Python (NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Plotly);<br><br>
-SQL para consultas, transformação e análise de dados;
+🖥️ Programação & Ferramentas : Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, pytorch); • SQL para consultas, transformação e análise de dados; • Desenvolvimento de aplicações interativas com Streamlit; • Versionamento de código com Git e GitHub; • Conteinerização com Docker; • Deploy e serviços em nuvem utilizando AWS.
+
+• Raciocínio analítico e pensamento crítico; • Facilidade para aprender novos conceitos e tecnologias; • Resolução de problemas ; • Capacidade de traduzir problemas abstratos em soluções práticas; • Comunicação clara de ideias técnicas; • Organização, disciplina e autonomia no desenvolvimento de projetos; • Mentalidade orientada a solução e melhoria contínua.
+
+
 </p>
 
 ## 🗺️ Meu Roadmap Pessoal
