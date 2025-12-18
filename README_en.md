@@ -1,26 +1,22 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-vinicius-a4054b2a9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasDS9.LucasDS9&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasDS9.LucasDS9&" />
 </div>
 
 ###
-
-> 📄 This README is also available in:
-> **[Português (Brasil)](README.md)**
-
 
 <h1 align="center">Hello 👋</h1>
 
@@ -30,43 +26,36 @@
 
 ###
 
+> 📄 This README is also available in:
+> **[Português (Brasil)](README.md)**
+
 <p align="left">
-I am a Physics student at UFPE, driven by the curiosity to understand patterns, solve complex problems, and explore deep ideas. I currently develop practical machine learning and data analysis projects using SQL, Python, and Power BI, always aiming to transform data into clear insights and applicable solutions. I learn new concepts easily, connect theory with implementation, and structure solutions objectively.
-<br><br>
+I am a Physics undergraduate student at UFPE, driven by curiosity to understand patterns, solve complex problems, and explore deep ideas. I currently develop practical projects in <strong>Machine Learning and Data Science</strong>, covering everything from exploratory data analysis and statistical modeling to model evaluation and deployment, always aiming to transform data into clear insights and actionable solutions.<br><br>
 
 🎓 <strong>Education</strong><br><br>
-B.Sc. in Physics – UFPE (ongoing)
-<br><br>
+Physics (B.Sc.) – UFPE (in progress)<br><br>
 
-🎯 <strong>Technical Skills:</strong><br><br>
+🎯 <strong>Skills</strong> :<br><br>
 
-🧠 <strong>Machine Learning</strong><br><br>
-Application of machine learning algorithms for classification, prediction, clustering, and optimization of quantitative problems;<br><br>
-Supervised and unsupervised models;<br><br>
-Data preprocessing, feature selection, hyperparameter tuning, model evaluation, and statistical metrics.
-<br><br>
+🧠 <strong>Machine Learning</strong> : Application of machine learning algorithms for classification, regression, clustering, and optimization; • Supervised and unsupervised models; • Data cleaning and preprocessing, feature engineering and selection; • Hyperparameter tuning, cross-validation, and model evaluation; • Statistical metrics and interpretation of results.<br><br>
 
-📊 <strong>Data Analysis & Business Intelligence</strong><br><br>
-Development of interactive dashboards and business-oriented analyses;<br><br>
-Power BI;<br><br>
-Excel for analysis and visualization.
-<br><br>
+🗣️ <strong>NLP & LLMs</strong> : Natural Language Processing (tokenization, embeddings, vectorization); • Use of Large Language Models (LLMs) for text analysis, classification, summarization, and content generation; • Integration of LLMs into practical applications; • Prompt engineering concepts and response evaluation.<br><br>
 
-🖥️ <strong>Programming & Computational Tools</strong><br><br>
-Python (NumPy, Pandas, SciPy, Scikit-learn, Seaborn, Matplotlib, Plotly);<br><br>
-SQL for querying, transforming, and analyzing data;
+🖥️ <strong>Programming & Tools</strong> : Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, PyTorch); • SQL for data querying, transformation, and analysis; • Development of interactive applications with Streamlit; • Version control with Git and GitHub; • Containerization with Docker; • Deployment and cloud services using AWS.<br><br>
+
+<strong>Soft Skills</strong> : Analytical and critical thinking; • Fast learning and adaptability to new technologies; • Problem-solving skills; • Ability to translate abstract problems into practical solutions; • Clear communication of technical ideas; • Organization, discipline, and autonomy in project development; • Results-oriented mindset and continuous improvement.
 </p>
 
 ## 🗺️ My Personal Roadmap
 
-➡️ **[Click here to view my Data Science Personal Roadmap](https://github.com/LucasDS9/Roadmap-projetos/blob/main/README_en.md)**  
+➡️ **[Click here to see my personal Data Science Roadmap](https://github.com/LucasDS9/Roadmap-projetos)**  
 
 ###
 
-<h2 align="left">🔥   My Stats:</h2>
+<h2 align="left">🔥 My Status :</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasDS9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucasDS9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
