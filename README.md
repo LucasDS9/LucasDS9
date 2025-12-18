@@ -26,6 +26,9 @@
 
 ###
 
+> 📄 This README is also available in:
+> **[Português (Brasil)](README.md)**
+
 <p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e análise de dados utilizando ferramentas SQL, Python e Power BI sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
 
 🎓 Formação<br><br>
