@@ -52,11 +52,3 @@ Física (Bacharelado) - UFPE (em andamento)<br><br>
 ➡️ **[Clique aqui para ver meu Roadmap pessoal de Data Science](https://github.com/LucasDS9/Roadmap-projetos)**  
 
 ###
-
-<h2 align="left">🔥   Meu status :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasDS9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
