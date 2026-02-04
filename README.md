@@ -43,12 +43,6 @@ Física (Bacharelado) - UFPE (em andamento)<br><br>
 🖥️ Programação & Ferramentas : Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, pytorch); • SQL para consultas, transformação e análise de dados; • Desenvolvimento de aplicações interativas com Streamlit; • Versionamento de código com Git e GitHub; • Conteinerização com Docker; • Deploy e serviços em nuvem utilizando AWS.
 
 • Raciocínio analítico e pensamento crítico; • Facilidade para aprender novos conceitos e tecnologias; • Resolução de problemas ; • Capacidade de traduzir problemas abstratos em soluções práticas; • Comunicação clara de ideias técnicas; • Organização, disciplina e autonomia no desenvolvimento de projetos; • Mentalidade orientada a solução e melhoria contínua.
-
-
-</p>
-
-## 🗺️ Meu Roadmap Pessoal
-
-➡️ **[Clique aqui para ver meu Roadmap pessoal de Data Science](https://github.com/LucasDS9/Roadmap-projetos)**  
+ 
 
 ###
