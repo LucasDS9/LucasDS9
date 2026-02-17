@@ -53,13 +53,59 @@ Projeto prático de Retrieval-Augmented Generation com foco em avaliação de re
 - Notebook dedicado à análise comparativa
 - Aplicação de prompt engineering
 
-🔗 [Ver repositório](https://github.com/LucasDS9/mini-RAG-pt)
+🔗 [Ver repositório](https://github.com/LucasDS9/MiniRAG-pt)
 
 
-</p>
+### 🛍️ NLP Product Analysis — Análise de Texto com Machine Learning
+Projeto focado em análise textual aplicada a produtos, utilizando técnicas de NLP e modelos supervisionados para extração de padrões e insights.
 
-## 🗺️ Meu Roadmap Pessoal
+- Pré-processamento textual (tokenização, limpeza e vetorização)
+- Geração e análise de embeddings
+- Classificação automática de textos
+- Avaliação de métricas de desempenho
+- Interpretação de resultados e insights analíticos
 
-➡️ **[Clique aqui para ver meu Roadmap pessoal de Data Science](https://github.com/LucasDS9/Roadmap-projetos)**
+🔗 [Ver repositório](https://github.com/LucasDS9/nlp-product-review-analysis)
+
+---
+
+### 📉 Customer Churn Prediction
+Modelo supervisionado para previsão de evasão de clientes com foco em análise estatística e otimização de desempenho.
+
+- Tratamento de classes desbalanceadas
+- Feature engineering e seleção de variáveis
+- Tuning de hiperparâmetros
+- Validação cruzada
+- Avaliação com métricas como Precision, Recall e F1-score
+
+🔗 [Ver repositório](https://github.com/LucasDS9/Customer-churn-project-)
+
+---
+
+### 💳 Loan Approval — Classificação de Risco de Crédito
+Modelo preditivo para análise de aprovação de empréstimos utilizando técnicas de Machine Learning supervisionado.
+
+- Análise exploratória de dados (EDA)
+- Pré-processamento e engenharia de features
+- Modelos de classificação
+- Avaliação estatística de desempenho
+- Interpretação de resultados para suporte à decisão
+
+🔗 [Ver repositório](https://github.com/LucasDS9/Loan_approval-project)
+
+---
+
+### 📊 RFM Segmentation — Clusterização com K-Means
+Segmentação de clientes baseada na metodologia RFM (Recência, Frequência e Valor Monetário).
+
+- Construção de métricas RFM
+- Redução de dimensionalidade (PCA)
+- Clusterização com K-Means
+- Análise e interpretação de segmentos
+- Aplicação estratégica para retenção de clientes
+
+🔗 [Ver repositório](https://github.com/LucasDS9/customer-segmentation-rfm)
+
+
 
 
