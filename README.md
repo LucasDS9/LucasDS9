@@ -40,6 +40,12 @@ Física (Bacharelado) - UFPE (em andamento)<br><br>
 
 🗣️ NLP & LLMs : Processamento de linguagem natural (tokenização, embeddings, vetorização); • Uso de modelos de linguagem (LLMs) para análise de texto, classificação, sumarização e geração de conteúdo; • Integração de LLMs em aplicações práticas; • Conceitos de prompt engineering e avaliação de respostas.
 
+🎲 SQL & Dados : Consultas SQL para extração e manipulação de dados; • Joins, agregações e subqueries; • Análise exploratória de dados; • Estruturação de datasets para modelagem.
+
+🌎 Idiomas : Inglês intermediário-avançado (comunicação, leitura técnica, documentação, escrita, compreensão).
+
+🤝 Outras Habilidades : Pensamento analítico; • Facilidade em conectar teoria e prática; • Aprendizado rápido; • Organização e estruturação de projetos; • Comunicação clara de resultados técnicos.
+
 
 
 ## 🚀 Projetos em Destaque
