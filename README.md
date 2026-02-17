@@ -62,7 +62,7 @@ Projeto prático de Retrieval-Augmented Generation com foco em avaliação de re
 🔗 [Ver repositório](https://github.com/LucasDS9/MiniRAG-pt)
 
 
-### 🛍️ NLP Product Analysis — Análise de Texto com Machine Learning
+### 🛍️ NLP Product Analysis 
 Projeto focado em análise textual aplicada a produtos, utilizando técnicas de NLP e modelos supervisionados para extração de padrões e insights.
 
 - Pré-processamento textual (tokenização, limpeza e vetorização)
