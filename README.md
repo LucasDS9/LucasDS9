@@ -40,6 +40,22 @@ Física (Bacharelado) - UFPE (em andamento)<br><br>
 
 🗣️ NLP & LLMs : Processamento de linguagem natural (tokenização, embeddings, vetorização); • Uso de modelos de linguagem (LLMs) para análise de texto, classificação, sumarização e geração de conteúdo; • Integração de LLMs em aplicações práticas; • Conceitos de prompt engineering e avaliação de respostas.
 
+
+
+## 🚀 Projetos em Destaque
+
+### 🔎 mini-RAG-pt — Avaliação de LLMs com RAG
+Projeto prático de Retrieval-Augmented Generation com foco em avaliação de respostas de Large Language Models.
+
+- Implementação de pipeline RAG
+- Análise de contexto recuperado
+- Métricas de avaliação de respostas
+- Notebook dedicado à análise comparativa
+- Aplicação de prompt engineering
+
+🔗 [Ver repositório](https://github.com/LucasDS9/mini-RAG-pt)
+
+
 </p>
 
 ## 🗺️ Meu Roadmap Pessoal
