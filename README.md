@@ -31,10 +31,10 @@
 
 <p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e ciência de dados, abrangendo desde análise exploratória de dados e modelagem estatística até avaliação e deploy de modelos.  sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
 
-🎓 Formação<br><br>
+### 🎓 Formação<br><br>
 Física (Bacharelado) - UFPE (em andamento)<br><br>
 
-🎯 habilidades  :<br><br>
+### 🎯 habilidades  :<br><br>
 
 🧠 Machine Learning : Aplicação de algoritmos de aprendizado de máquina para classificação, regressão, clusterização e otimização; • Modelos supervisionados e não supervisionados; • limpeza e pré-processamento de dados, engenharia e seleção de features; • Tuning de hiperparâmetros, validação cruzada e avaliação de modelos; • Métricas estatísticas e interpretação de resultados.
 
