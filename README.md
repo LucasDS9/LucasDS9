@@ -50,8 +50,8 @@ Física (Bacharelado) - UFPE (em andamento)<br><br>
 
 ## 🚀 Projetos em Destaque
 
-### 🔎 mini-RAG-pt — Avaliação de LLMs com RAG
-Projeto prático de Retrieval-Augmented Generation com foco em avaliação de respostas de Large Language Models.
+### 🔎 mini-RAG-pt 
+Projeto prático de Retrieval-Augmented Generation com foco em QA e avaliação de respostas de Large Language Models.
 
 - Implementação de pipeline RAG
 - Análise de contexto recuperado
