@@ -35,7 +35,7 @@ Tenho interesse especial em sistemas reais de **ML**, **NLP** e aplicações com
 
 ---
 
-### 🎓 Formação
+### 🎓 Educação : 
 
 - **Física (Bacharelado)** — UFPE (em andamento)
 - **Intercâmbio nos EUA** — Programa PGM (2020)
