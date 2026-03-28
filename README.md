@@ -63,65 +63,60 @@ Pensamento analítico · Facilidade em conectar teoria e prática · Aprendizado
 
 ## 🚀 Projetos em Destaque
 
-### 📄 Sistema RAG Q&A (PT) — Mini RAG PRO
-Sistema completo de Retrieval-Augmented Generation para perguntas e respostas sobre documentos PDF, com avaliação quantitativa via métricas de IR e LLM-as-Judge.
+### 🛒 Análise Inteligente de Reviews (Amazon)
+Projeto que transforma milhares de avaliações de clientes em insights claros sobre produtos, ajudando a entender percepção, qualidade e pontos de melhoria.
 
-- Pipeline RAG completo: ingestão, chunking adaptativo, embeddings, ChromaDB, re-ranking e geração
-- Comparação de estratégias de chunking (chunk_size, overlap, semântico, por sentença)
-- Avaliação com Precision@K, Recall@K, F1@K, NDCG@K, MRR, BLEU e ROUGE
-- LLM-as-Judge com Qwen 0.5B para avaliação automática de relevância e coerência
-- Interface Gradio com deploy no Hugging Face Spaces
-
-🔗 [Ver repositório](https://github.com/LucasDS9/MiniRAG-pt) · 🚀 [Testar o modelo](https://huggingface.co/spaces/LucasDS9/MiniRAG-PT)
-
----
-
-### 🛒 Análise de Produtos Amazon — NLP Pipeline
-Pipeline completo de NLP sobre o Amazon Fine Foods dataset para extrair insights estruturados de reviews de clientes, combinando técnicas clássicas com LLMs.
-
-- Limpeza textual e feature engineering com spaCy
-- Vetorização via TF-IDF e Word2Vec
-- Agregação de sentimento por produto com métricas estruturadas
-- Geração de insights executivos com Qwen 0.5B e prompt engineering
-- Interface interativa com deploy no Hugging Face Spaces
+- Identificação automática de sentimentos nas avaliações
+- Consolidação de opiniões para apoiar decisões de negócio
+- Geração de resumos e insights de forma automatizada
+- Interface interativa para exploração dos dados
 
 🔗 [Ver repositório](https://github.com/LucasDS9/nlp-product-review-analysis) · 🚀 [Testar o modelo](https://huggingface.co/spaces/LucasDS9/nlp-product-review-analysis)
 
 ---
 
-### 📉 Classificador de Churn Bancário
-Modelo supervisionado para previsão de evasão de clientes com pipeline robusto, rastreamento de experimentos com MLflow e threshold customizado para maximizar recall.
+### 📉 Previsão de Cancelamento de Clientes (Churn)
+Sistema que antecipa quais clientes têm maior chance de sair, permitindo ações preventivas e estratégias de retenção.
 
-- EDA completa com insights sobre perfil de churn
-- Pipeline sklearn com SMOTE para balanceamento de classes
-- Três modelos avaliados (Logistic Regression, Random Forest, Gradient Boosting) rastreados com MLflow
-- ROC-AUC de 99.66% · Accuracy de 98.20% · Threshold customizado de 0.35
-- Deploy via Streamlit no Render
+- Identificação dos principais fatores que levam ao churn
+- Modelo com alta precisão na detecção de clientes em risco
+- Ajuste estratégico para priorizar a identificação de casos críticos
+- Aplicação prática com interface para simulação
 
 🔗 [Ver repositório](https://github.com/LucasDS9/Customer-churn-project-) · 🚀 [Testar o modelo](https://customer-churn-project-d7xs.onrender.com/app) · 📓 [Ver notebook](https://github.com/LucasDS9/Customer-churn-project-/blob/main/notebook/Customer_churn.ipynb)
 
 ---
 
-### 💳 Loan Approval — Classificação e Regressão de Crédito
-Solução end-to-end para aprovação de empréstimos bancários combinando classificação binária com regressão para estimativa de taxa de juros personalizada.
+### 💳 Análise e Aprovação de Crédito
+Solução que avalia pedidos de empréstimo e estima taxas de juros de forma personalizada, simulando um cenário real de decisão bancária.
 
-- EDA aprofundada com insights sobre fatores de aprovação de crédito
-- Classificação com RandomForestClassifier: 98% de acurácia
-- Regressão para taxa de juros: R² de 0.9977 e MAE de 0.0776
-- Regras de negócio customizadas e análise de lucratividade
-- Deploy via Streamlit no Render
+- Classificação de aprovação de crédito baseada no perfil do cliente
+- Estimativa de taxas de juros ajustadas ao risco
+- Análise de impacto financeiro e lucratividade
+- Interface para simulação de decisões
 
 🔗 [Ver repositório](https://github.com/LucasDS9/Loan_approval-project) · 🚀 [Testar o modelo](https://loan-approval-project-yyfi.onrender.com) · 📓 [Ver notebook](https://github.com/LucasDS9/Loan_approval-project/blob/main/notebooks/loan_full_project.ipynb)
 
 ---
 
-### 📊 RFM Segmentation — Clusterização com K-Means
-Segmentação de clientes de e-commerce baseada na metodologia RFM (Recência, Frequência e Valor Monetário) com clustering não supervisionado.
+### 📄 Sistema de Perguntas e Respostas sobre Documentos (RAG)
+Ferramenta que permite fazer perguntas em linguagem natural sobre documentos PDF e receber respostas precisas baseadas no próprio conteúdo do arquivo.
 
-- Construção de métricas RFM e análise exploratória orientada a negócio
-- Redução de dimensionalidade com PCA (2D e 3D)
-- Clusterização com K-Means: segmentos VIP (~8%), Regulares (~67%) e Inativos (~25%)
-- Tratamento de outliers via Winsorize para estabilidade da modelagem
-- Insights e estratégias de retenção, fidelização e reativação por segmento
+- Leitura e organização inteligente do conteúdo de documentos
+- Busca e recuperação das informações mais relevantes para cada pergunta
+- Respostas geradas com base no documento, não em suposições
+- Interface interativa para exploração do conteúdo
+
+🔗 [Ver repositório](https://github.com/LucasDS9/MiniRAG-pt) · 🚀 [Testar o modelo](https://huggingface.co/spaces/LucasDS9/MiniRAG-PT)
+
+---
+
+### 📊 Segmentação de Clientes (RFM)
+Projeto que agrupa clientes de e-commerce por comportamento de compra, permitindo estratégias de marketing e retenção mais direcionadas.
+
+- Análise de padrões de compra: frequência, recência e valor gasto
+- Divisão dos clientes em grupos com perfis distintos
+- Identificação de clientes VIP, regulares e inativos
+- Insights práticos para retenção, fidelização e reativação
 
 🔗 [Ver repositório](https://github.com/LucasDS9/customer-segmentation-rfm)
