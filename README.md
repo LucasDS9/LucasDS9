@@ -99,17 +99,6 @@ Solução que avalia pedidos de empréstimo e estima taxas de juros de forma per
 
 ---
 
-### 📄 Sistema de Perguntas e Respostas sobre Documentos (RAG)
-Ferramenta que permite fazer perguntas em linguagem natural sobre documentos PDF e receber respostas precisas baseadas no próprio conteúdo do arquivo.
-
-- Leitura e organização inteligente do conteúdo de documentos
-- Busca e recuperação das informações mais relevantes para cada pergunta
-- Respostas geradas com base no documento, não em suposições
-- Interface interativa para exploração do conteúdo
-
-🔗 [Ver repositório](https://github.com/LucasDS9/MiniRAG-pt) · 🚀 [Testar o modelo](https://huggingface.co/spaces/LucasDS9/MiniRAG-PT)
-
----
 
 ### 📊 Segmentação de Clientes (RFM)
 Projeto que agrupa clientes de e-commerce por comportamento de compra, permitindo estratégias de marketing e retenção mais direcionadas.
