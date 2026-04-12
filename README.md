@@ -29,9 +29,11 @@
 
 ###
 
-<p align="left">Sou estudante de Física na UFPE, movido pela curiosidade de entender padrões, resolver problemas complexos e explorar ideias profundas. Atualmente desenvolvo projetos práticos em machine learning e ciência de dados, abrangendo desde análise exploratória de dados e modelagem estatística até avaliação e deploy de modelos, sempre com o objetivo de transformar dados em insights claros e soluções aplicáveis. Tenho facilidade em aprender novos conceitos, conectar teoria e implementação, e estruturar soluções de forma objetiva.<br><br>
+<p align="left">
+Sou estudante de Física na UFPE, com forte base em estatística e foco em análise e visualização de dados. Desenvolvo projetos práticos que vão desde a análise exploratória até a modelagem e comunicação de resultados, sempre buscando transformar dados em insights claros e aplicáveis para tomada de decisão.<br><br>
 
-Tenho interesse especial em sistemas reais de **ML**, **NLP** e aplicações com **LLMs**, buscando construir soluções completas, reprodutíveis e próximas do ambiente de produção. Atualmente estudando **agentes de IA**, **MCP** e integrando **PostgreSQL** nos projetos.</p>
+Tenho interesse em resolver problemas reais com dados, estruturando análises de forma objetiva e conectando estatística, machine learning, negócio e visualização para gerar valor.
+</p>
 
 ---
 
@@ -44,68 +46,83 @@ Tenho interesse especial em sistemas reais de **ML**, **NLP** e aplicações com
 
 ### 🎯 Habilidades
 
-🧠 **Machine Learning**
-Classificação, regressão, clusterização e otimização · Modelos supervisionados e não supervisionados · Limpeza e pré-processamento de dados, engenharia e seleção de features · Tuning de hiperparâmetros, validação cruzada e avaliação de modelos · Métricas estatísticas e interpretação de resultados
+📊 **Análise de Dados & Estatística**  
+Análise exploratória de dados (EDA) · Estatística descritiva e inferencial · Limpeza e tratamento de dados · Identificação de padrões e geração de insights · Comunicação de resultados  
 
-🗣️ **NLP & LLMs**
-Processamento de linguagem natural (tokenização, embeddings, vetorização) · Uso de LLMs para análise de texto, classificação, sumarização e geração de conteúdo · Arquiteturas RAG com bancos vetoriais · Prompt engineering e avaliação de respostas · Agentes de IA e MCP
+📈 **Visualização de Dados**  
+Criação de dashboards e visualizações claras · Storytelling com dados · Power BI, Streamlit e bibliotecas Python · Foco em tomada de decisão  
 
-🎲 **SQL & Dados**
-Consultas SQL para extração e manipulação de dados · Joins, agregações e subqueries · Análise exploratória de dados · Integração com PostgreSQL em projetos de ML
+🤖 **Machine Learning**  
+Modelos supervisionados e não supervisionados · Classificação, regressão e clusterização · Engenharia de features e pré-processamento · Avaliação e interpretação de modelos  
 
-🌎 **Idiomas**
-Inglês intermediário-avançado (comunicação, leitura técnica, documentação, escrita, compreensão)
+🗄️ **SQL & Dados**  
+Consultas SQL (joins, agregações, subqueries) · Análise de dados em bancos relacionais · Integração com PostgreSQL · Manipulação de dados com pandas  
 
-🤝 **Outras Habilidades**
-Pensamento analítico · Facilidade em conectar teoria e prática · Aprendizado rápido · Organização e estruturação de projetos · Comunicação clara de resultados técnicos
+🌎 **Idiomas**  
+Inglês intermediário-avançado (leitura técnica, documentação e comunicação)  
+
+🤝 **Soft Skills**  
+Pensamento analítico · Comunicação clara · Atenção a detalhes · Aprendizado contínuo · Trabalho em equipe  
 
 ---
 
 ## 🚀 Projetos em Destaque
-
-### 🛒 Análise Inteligente de Reviews (Amazon)
-Projeto que transforma milhares de avaliações de clientes em insights claros sobre produtos, ajudando a entender percepção, qualidade e pontos de melhoria.
-
-- Identificação automática de sentimentos nas avaliações
-- Consolidação de opiniões para apoiar decisões de negócio
-- Geração de resumos e insights de forma automatizada
-- Interface interativa para exploração dos dados
-
-🔗 [Ver repositório](https://github.com/LucasDS9/nlp-product-review-analysis) · 🚀 [Testar o modelo](https://huggingface.co/spaces/LucasDS9/nlp-product-review-analysis)
 
 ---
 
 ### 📉 Previsão de Cancelamento de Clientes (Churn)
 Sistema que antecipa quais clientes têm maior chance de sair, permitindo ações preventivas e estratégias de retenção.
 
-- Identificação dos principais fatores que levam ao churn
-- Modelo com alta precisão na detecção de clientes em risco
-- Ajuste estratégico para priorizar a identificação de casos críticos
-- Aplicação prática com interface para simulação
+- Identificação dos principais fatores que levam ao churn  
+- Modelo com boa performance na detecção de clientes em risco  
+- Ajuste para priorizar casos mais críticos  
+- Interface para simulação de cenários  
 
-🔗 [Ver repositório](https://github.com/LucasDS9/Customer-churn-project-) · 🚀 [Testar o modelo](https://customer-churn-project-d7xs.onrender.com/app) · 📓 [Ver notebook](https://github.com/LucasDS9/Customer-churn-project-/blob/main/notebook/Customer_churn.ipynb)
+🔗 [Ver repositório](https://github.com/LucasDS9/Customer-churn-project-)  
+🚀 [Testar o modelo](https://customer-churn-project-d7xs.onrender.com/app)  
+📓 [Ver notebook](https://github.com/LucasDS9/Customer-churn-project-/blob/main/notebook/Customer_churn.ipynb)
 
 ---
 
 ### 💳 Análise e Aprovação de Crédito
-Solução que avalia pedidos de empréstimo e estima taxas de juros de forma personalizada, simulando um cenário real de decisão bancária.
+Solução que avalia pedidos de empréstimo e estima taxas de juros com base no perfil do cliente.
 
-- Classificação de aprovação de crédito baseada no perfil do cliente
-- Estimativa de taxas de juros ajustadas ao risco
-- Análise de impacto financeiro e lucratividade
-- Interface para simulação de decisões
+- Classificação de aprovação de crédito  
+- Estimativa de taxas ajustadas ao risco  
+- Análise de impacto financeiro  
+- Interface para simulação  
 
-🔗 [Ver repositório](https://github.com/LucasDS9/Loan_approval-project) · 🚀 [Testar o modelo](https://loan-approval-project-yyfi.onrender.com) · 📓 [Ver notebook](https://github.com/LucasDS9/Loan_approval-project/blob/main/notebooks/loan_full_project.ipynb)
+🔗 [Ver repositório](https://github.com/LucasDS9/Loan_approval-project)  
+🚀 [Testar o modelo](https://loan-approval-project-yyfi.onrender.com)  
+📓 [Ver notebook](https://github.com/LucasDS9/Loan_approval-project/blob/main/notebooks/loan_full_project.ipynb)
 
 ---
 
+### 📊 Dashboard de Vendas (Power BI & SQL)
+Projeto que combina dashboard executivo com análise aprofundada em SQL, consolidando dados de vendas ao longo de 4 anos.
 
-### 📊 Segmentação de Clientes (RFM)
-Projeto que agrupa clientes de e-commerce por comportamento de compra, permitindo estratégias de marketing e retenção mais direcionadas.
+- Dashboard interativo para visão gerencial  
+- Análises SQL com queries analíticas  
+- Exploração de 247 mil transações  
+- Geração de insights para apoio à decisão  
 
-- Análise de padrões de compra: frequência, recência e valor gasto
-- Divisão dos clientes em grupos com perfis distintos
-- Identificação de clientes VIP, regulares e inativos
-- Insights práticos para retenção, fidelização e reativação
+🔗 [Ver repositório](https://github.com/LucasDS9/Sales_analysis-powerBI)  
+📓 [Ver análises SQL](https://github.com/LucasDS9/Sales_analysis-powerBI/blob/main/SQL.ipynb)  
+📊 [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg5MGM2OGMtY2NhMy00MWFhLWE4YzctMGJkNTdjZTVhNDk0IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
+
+---
+
+### 📊 Segmentação de Clientes
+Projeto que agrupa clientes de e-commerce por comportamento de compra para apoiar estratégias de marketing.
+
+- Análise de quando compram, com que frequência e quanto gastam  
+- Agrupamento de clientes com perfis semelhantes  
+- Identificação de clientes recorrentes, ocasionais e inativos  
+- Insights para retenção e campanhas mais direcionadas  
 
 🔗 [Ver repositório](https://github.com/LucasDS9/customer-segmentation-rfm)
+
+---
+
+📩 **Contato:** lucasvinids@gmail.com  
+Aberto a oportunidades na área de Análise de Dados.
