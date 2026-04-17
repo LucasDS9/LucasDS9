@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/lucas-vinicius-a4054b2a9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://portfolio-fx122lw08-lucasds9s-projects.vercel.app" target="_blank">
+  <a href="https://lucasds9.pages.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=534AB7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
   </a>
 </div>
